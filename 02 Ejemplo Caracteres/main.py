@@ -7,10 +7,10 @@ def abrir():
     archivo = filedialog.askopenfile(
         title = "Seleccionar un archivo",
         initialdir = "./",
-        filetypes = (
+        filetypes = [
             ("archivos LFP", "*.lfp"),
             ("todos los archivos",  "*.*")
-        )
+        ]
     )
 
     if archivo is None:
