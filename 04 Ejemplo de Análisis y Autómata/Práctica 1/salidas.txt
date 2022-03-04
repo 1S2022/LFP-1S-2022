@@ -1,0 +1,50 @@
+ENERO - 2021
+	El producto mas vendido es: Gatorade fresa-kiwi con 542 unidades.
+	El producto menos vendido es: Queso Emmental con 32 unidades.
+
+	NOMBRE - INGRESOS (PRECIO, CANTIDAD)
+		Pepsi + Seven Up - 12196.95 (39.99, 305)
+		Toallas de Cocina Jumbo Pack - 8415 (85, 99)      
+		Pepsi Jumbo - 7437.5 (17.5, 425)
+		Pepsi Light - 6542.73 (15.69, 417)
+		Toallas Humedas Desinfectantes - 6000 (20, 300)   
+		Gatorade fresa-kiwi - 4823.8 (8.9, 542)
+		Salsa Bolognesa - 4655 (35, 133)
+		Queso crema natural - 4389.0 (28.5, 154)
+		Pasta precocinada - 4182.5 (23.9, 175)
+		Air Wick aparato + repuesto - 3480 (40, 87)       
+		Ades jugo surtido - 2266.0 (25.75, 88)
+		Air Wick flores de magnolia - 2094.75 (12.25, 171)
+		Air Wick suavidad algodón - 1727.25 (12.25, 141)
+		Queso crema con pimienta - 1630.2 (21.45, 76)
+		Aromatizante Glade Paraiso Azul - 1477.35 (23.45, 63)
+		Aromatizante Glade Hawaiian Breeze - 1453.9 (23.45, 62)
+		Aromatizante Glade Manzana y Canela - 1430.45 (23.45, 61)
+		Queso crema light - 1340 (20, 67)
+		Pimenton ahumado - 1224.0 (12.75, 96)
+		Gatorade mandarina - 1148.1 (8.9, 129)
+		Pepino agridulce - 1039.74 (13.33, 78)
+		Agua Juniper quinua botella - 1008.0 (10.5, 96)
+		Ades soya jugo naranja - 831.25 (4.75, 175)
+		Queso Emmental - 800 (25, 32)
+		Pimentones cheika - 551.2 (10.6, 52)
+
+==========================================================================
+
+ENERO - 2022
+	El producto mas vendido es: MicroSD 16GB con 20 unidades.
+	El producto menos vendido es: XIAOMI 11T con 1 unidades.
+	
+	NOMBRE - INGRESOS (PRECIO, CANTIDAD)
+		MBoard Asus - 25500 (4250, 6)       
+		HDD 2TB - 10400 (800, 13)
+		Office 2021 - 9350 (850, 11)        
+		Impresora HP - 9000 (1000, 9)       
+		HEADSET CORSAIR - 6102 (339, 18)    
+		Teclado Razer - 5399.97 (1799.99, 3)
+		XIAOMI 11T - 4065 (4065, 1)
+		Bocina ALeXA - 2755 (2755, 1)       
+		Router Belkin - 1755 (585, 3)       
+		Mouse Gamer - 1020 (85, 12)
+		MicroSD 16GB - 700 (35, 20)
+		Sleeve 7p pulg - 650 (130, 5)

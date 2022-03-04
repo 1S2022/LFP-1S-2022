@@ -1,0 +1,27 @@
+Enero : 2021 = (
+	["Pepsi + Seven Up", 39.99, 305];
+	["Pepsi Jumbo",17.50,425];
+	["Pepsi Light", 15.69, 417];
+	["Gatorade fresa-kiwi",8.90,542];
+	["Gatorade mandarina", 8.90, 129];
+	["Agua Juniper quinua botella",10.50,96];
+	["Ades jugo surtido", 25.75, 88];
+	["Ades soya jugo naranja", 4.75, 175];
+	["Toallas de Cocina Jumbo Pack",85,99];
+	["Toallas Humedas Desinfectantes",20,300];
+	["Pepino agridulce", 13.33, 78];
+	["Pimenton ahumado", 12.75, 96];
+	["Pimentones cheika", 10.60, 52];
+	["Salsa Bolognesa", 35, 133];
+	["Pasta precocinada",23.90, 175];
+	["Queso crema con pimienta",21.45,76];
+	["Queso Emmental",25,32];
+	["Queso crema light", 20, 67];
+	["Queso crema natural",28.50,154];
+	["Air Wick flores de magnolia", 12.25, 171];
+	["Air Wick suavidad algodón",12.25,141];
+	["Air Wick aparato + repuesto", 40, 87];
+	["Aromatizante Glade Hawaiian Breeze",23.45,62];
+	["Aromatizante Glade Manzana y Canela", 23.45, 61];
+	["Aromatizante Glade Paraiso Azul",23.45,63];
+)
