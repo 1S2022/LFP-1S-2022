@@ -1,0 +1,19 @@
+Ambigua
+    <S0>   ->   <E>
+
+    <E>    ->   <E> tk_mas <E>
+            |   <E> tk_menos <E>
+            |   tk_num
+            |   tk_par_( <E> tk_par_)
+
+No Ambigua, No Recursiva por Izq. y Factorizada (programaremos esta forma)
+    <S0>   ->   <E>
+
+    <E>    ->   tk_num <E'>
+            |   tk_par_( <E> tk_par_) <E'>
+
+    <E'>   ->   tk_mas <E> <E'>
+            |   tk_menos <E> <E'>
+            |   epsilon
+
+( ( 3 ) + 2 ) - 1 ~
