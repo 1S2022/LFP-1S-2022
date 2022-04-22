@@ -1,0 +1,25 @@
+<inicio>        ::= <lista> <otra_lista>
+
+<otra_lista>    ::= <inicio> 
+                | epsilon
+
+<lista>         ::= tk_id tk_igual <elementos> <acciones>
+
+<elementos>     ::= tk_num <otro_num>
+
+<otro_num>      ::= tk_coma tk_num <otro_num> 
+                | epsilon
+
+<acciones>      ::= tk_bus tk_num <ordenar> 
+                | tk_ord <buscar> 
+                | epsilon
+
+<ordenar>       ::= tk_coma tk_ord 
+                | epsilon
+
+<buscar>        ::= tk_coma tk_bus tk_num 
+                | epsilon
+
+# Entradas
+Datos = 5, 7, 1 Ordenar
+Datos = 5, 7, 1 Ordenar, Buscar 3
